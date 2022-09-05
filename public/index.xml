@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Dyson Sphere</title>
+    <link>https://dyson-shpere.org/</link>
+    <description>Recent content on Dyson Sphere</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 05 Sep 2022 21:27:41 +0200</lastBuildDate><atom:link href="https://dyson-shpere.org/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Starting to Work</title>
+      <link>https://dyson-shpere.org/posts/starting-to-work/</link>
+      <pubDate>Mon, 05 Sep 2022 21:27:41 +0200</pubDate>
+      
+      <guid>https://dyson-shpere.org/posts/starting-to-work/</guid>
+      <description>Hi, I am Tom. Today I am starting to work on Dyson Spheres. I do not expect to finish this project in my livetime. But it should be fun to work on. The goal is to bring humanity to the next step in evolution.</description>
+    </item>
+    
+  </channel>
+</rss>
