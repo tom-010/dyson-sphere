@@ -1,0 +1,12 @@
+---
+title: "Starting to Work"
+date: 2022-09-05T21:27:41+02:00
+draft: false
+---
+
+Hi, I am Tom.
+Today I am starting to work on Dyson Spheres. 
+I do not expect to finish this project in my livetime.
+But it should be fun to work on.
+The goal is to bring humanity to the next step in evolution.
+

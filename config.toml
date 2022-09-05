@@ -1,0 +1,18 @@
+baseURL = 'https://dyson-shpere.org/'
+languageCode = 'en-us'
+title = 'Dyson Sphere'
+theme = "PaperMod"
+
+[security]
+enableInlineShortcodes = false
+
+[security.exec]
+allow = ["^dart-sass-embedded$", "^go$", "^npx$", "^postcss$", "^asciidoctor$"]
+osEnv = ["(?i)^(PATH|PATHEXT|APPDATA|TMP|TEMP|TERM|RUBYLIB)$"]
+
+[security.funcs]
+getenv = ["^HUGO_"]
+
+[security.http]
+methods = ["(?i)GET|POST"]
+urls = [".*"]
